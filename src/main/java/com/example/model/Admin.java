@@ -6,7 +6,7 @@ import lombok.Data;
 
 @Entity
 @Data
-public class User {
+public class Admin {
 
 	@Id
 	private String mobileNumber;
